@@ -130,6 +130,7 @@ Supported Algorithms
                           yespowerurx   Yespower (URX)
                           cpupower      CPUchain (CPU)
                           yespowerltncg Lightningcash-Gold (Ltncg)
+                          yespowerinter Intercoin (ITC)
                           yespowerlitb  LightBit (LITB)
                           yespowersugar Sugarchain (SUGAR)
                           yespower2b    yespower2b
